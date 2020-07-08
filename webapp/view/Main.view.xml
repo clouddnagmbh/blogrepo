@@ -2,7 +2,7 @@
 	xmlns:html="http://www.w3.org/1999/xhtml">
 	<Page title="Title">
 		<content>
-			<Label text="WebIDE"/>
+			<Label text="GitHub"/>
 		</content>
 	</Page>
 </mvc:View>
